@@ -6,3 +6,4 @@ In this project many thigs were implemented:
 4)Object detection using yolo algorithm on static and live feed.
 
 
+For the complete information about the project, check out its documentation(COMPUTER VISION.pdf).
